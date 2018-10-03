@@ -55,6 +55,7 @@ Creating functions are expensive (in a computer memory way) and each time we cre
     let riley = new Cat('Riley', 'rileyriley');
     
     console.log(dan.introduction()); // My name is Dan, my github handle is tetondan.
+    //BUG: .introduction is not a method on the Cat prototype
     console.log(riley.introduction()); // My name is Riley, my github handle is rileyriley.
 
 ``` 
