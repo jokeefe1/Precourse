@@ -1,7 +1,7 @@
 //In these first 6 questions, replace `null` with the answer
 
 //create a string variable, it can contain anything
-const newString = "This is a string";
+const newString = 'This is a string';
 
 //create a number variable, it an be any number
 const newNum = 3;
@@ -136,7 +136,7 @@ function addExclamationPoint(str) {
     // add an exclamation point to the end of str and return the new string
     // 'hello world' -> 'hello world!'
     // code here
-    return [str, "!"].join("").toString();
+    return [str, '!'].join('').toString();
 }
 
 function combineNames(firstName, lastName) {

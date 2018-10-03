@@ -1,0 +1,11 @@
+Q: What is a 'for' loop?
+A: A 'for' loop is a particular style of repeater or loop. It consists of three main parts: the initializing variable, the condition to run while true, and loop counter variable. 
+
+Q: What is a logical 'and' (&&) operator? 
+A: The logical 'and' operator will check two expressions. If both are true it will return true, otherwise, it will retur false.
+
+Q: What is a logical 'or' (||) operator?
+A: The logical 'or' operator will check two expressions. If either are true it will return true, otherwise, it will return false.
+
+Q: What is the logical 'not' (!) operator?
+A: The logical 'not' operator will return the opposite boolean value of an expression.

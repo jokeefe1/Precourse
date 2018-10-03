@@ -1,0 +1,14 @@
+Q: What is a variable?
+A: A variable is a object or primative assigned to a value that can be passed around and/or reassigned.
+
+Q: What is a string?
+A: A string is a primitive data type that allows you to work with characters such as written text.
+
+Q: What is a function (args, return)?
+A: A function is an object in JavaScript that allows you to complete actions. Arguments are passed in to allow for greater variablity and use. The return keyword evaluates an expression and sets the function equal to this expression.
+
+Q: What is an 'if' statement?
+A: An 'if' statement is a block of code that enable a program to make decsions based on certain criteria.
+
+Q: What is a Boolean value?
+A: Boolean values are primitive types that return either true or false, thus, enabling a program to render conditional events and behaviors based on this logical operator.
