@@ -1,0 +1,43 @@
+
+.container {
+
+}
+
+#bg-img {
+    height: 100vh; 
+    width: 100vw;
+    background: url('/Lesson02-HTML-CSS/homework/img/sarah-lee-328306-unsplash.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    filter: blur(6px);
+}
+
+h1 {
+    color: palevioletred;
+}
+
+h3,h4 {
+    color: papayawhip;
+}
+
+ul > li {
+    list-style: none;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: papayawhip;
+    padding: 50px;
+    border: 2px solid palevioletred;
+}
+
+#spanId {
+    font: 18px;
+    margin: 50px;
+}
