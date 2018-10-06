@@ -98,7 +98,7 @@ function isOdd(num) {
     // return true if num is odd
     // otherwise return false
     // code here
-    return num % 2 ? false : true;
+    return num % 2 == 0 ? false : true;
 }
 
 function square(num) {
@@ -117,13 +117,13 @@ function cube(num) {
 function raiseToPower(num, exponent) {
     // raise num to whatever power is passed in as exponent
     // code here
-    return Math.ceil(Math.exp(num, exponent));
+    return Math.pow(num, exponent);
 }
 
 function roundNumber(num) {
     // round num and return it
     // code here
-    return Math.floor(num);
+    return Math.round(num);
 }
 
 function roundUp(num) {
