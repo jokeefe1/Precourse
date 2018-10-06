@@ -1,0 +1,8 @@
+Q: What is the DOM?
+A: The DOM is the Document Object Model which is a representation of all the elements contained in an html document.
+
+Q: What are DOM element selectors?
+A: Dom element selectors enable the ability to query and select elements contained within the DOM.
+
+Q: What are DOM events?
+A: Dom events are action that can be listened for or triggered through the use of event listeners, functions, and methods.

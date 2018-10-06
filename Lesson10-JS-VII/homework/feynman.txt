@@ -1,0 +1,2 @@
+Q: What is a closure?
+A: A closure is a an inner function's ability to access an outer function's variables.
