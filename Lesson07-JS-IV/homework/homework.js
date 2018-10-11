@@ -79,12 +79,12 @@ function updatePassword(user, newPassword) {
     return user;
 }
 
-//BUG: the test references a non-existent .friends on the end of the array
 function addFriend(user, newFriend) {
     // user has a property called friends that is an array
     // add newFriend to the end of the friends array
     // return the user object
-    return [...user.friends, newFriend];
+    user.friends.push(newFriend);
+    return user;
 }
 
 function setUsersToPremium(users) {
